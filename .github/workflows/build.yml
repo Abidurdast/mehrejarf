@@ -44,7 +44,6 @@ jobs:
           android.sdk = 34
           android.ndk = 25b
           android.minapi = 21
-          android.ndk = 25b
           android.accept_sdk_license = True
           android.allow_backup = True
           p4a.branch = develop
